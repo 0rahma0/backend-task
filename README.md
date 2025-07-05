@@ -5,7 +5,7 @@ open a terminal in project root directory and type the following to install depe
 - ```npm i```
 - ```npm i dotenv```
 
- finally create a ```.env``` file and add fields for API_KEY, URL, PORT with their respective values
+ finally create a ```.env``` file and add fields for API_KEY, URL, PORT with their respective values, preferably 4000 for port number
 
 ## API  routes
 all the following were tested on postman
